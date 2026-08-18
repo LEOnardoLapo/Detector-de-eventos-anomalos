@@ -109,7 +109,7 @@ Para habilitar la subida automática asíncrona a la nube:
 8. CONTACTO Y SOPORTE
 ---------------------
 Desarrollador: Cesar Leonardo Lapo Chamba
-Correo institucional: cllapo@espe.edu.ec / leonardolapo@gmail.com
+Correo institucional: cllapo@espe.edu.ec / cesar.lapo0@gmail.com
 Universidad de las Fuerzas Armadas ESPE
 Sangolquí - Ecuador, 2026.
 ================================================================================
