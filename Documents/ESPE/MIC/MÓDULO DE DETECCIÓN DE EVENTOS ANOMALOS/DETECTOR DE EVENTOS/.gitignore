@@ -1,0 +1,14 @@
+# NO subir credenciales ni tokens
+credentials.json
+drive_token.json
+token.pickle
+
+# NO subir videos locales ni carpetas de prueba
+Eventos_Extraidos/
+*.mp4
+*.avi
+
+# Ignorar temporales de Python
+__pycache__/
+*.pyc
+venv/
